@@ -5,7 +5,7 @@ DSA Homework from Ms. Hue
 Chương trình giải bài toán **Tháp Hà Nội** bằng C++ sử dụng phương pháp **đệ quy**.
 Chương trình:
 * Nhập số lượng đĩa `n`.
-* Chuyển `n` đĩa từ cọc `A` sang cọc `C`, sử dụng cọc `B` làm trung gian.
+* Chuyển `n` đĩa từ cọc `A` sang cọc `B`, sử dụng cọc `C` làm trung gian.
 * In ra từng bước di chuyển.
 * In tổng số bước thực hiện.
 ## Thuật toán
