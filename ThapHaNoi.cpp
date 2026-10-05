@@ -21,7 +21,7 @@ int main() {
     cout << "Nhap so luong dia n: ";
     cin >> n;
     int buoc = 0;
-    thapHaNoi(n, 'A', 'C', 'B', buoc);
+    thapHaNoi(n, 'A', 'B', 'C', buoc);
     cout << "Tong so buoc: " << buoc << "\n";
     return 0;
 }
