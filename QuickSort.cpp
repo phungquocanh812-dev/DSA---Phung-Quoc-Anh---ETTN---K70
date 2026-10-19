@@ -18,9 +18,8 @@ void doiCho(int a[], int n, int i, int j) {
     a[i] = a[j];
     a[j] = tam;
     ++soBuoc;
-    cout << "  Buoc " << soBuoc << ": ";
     inDong(a, n);
-    cout << "   <- doi cho a[" << i << "] <-> a[" << j << "]\n";
+    cout <<"\n";
 }
  
 int phanHoach(int a[], int n, int l, int r) {
