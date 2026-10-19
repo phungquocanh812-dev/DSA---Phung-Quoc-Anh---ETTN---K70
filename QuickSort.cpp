@@ -18,6 +18,7 @@ void doiCho(int a[], int n, int i, int j) {
     a[i] = a[j];
     a[j] = tam;
     ++soBuoc;
+    cout << "  Buoc " << soBuoc << ": ";
     inDong(a, n);
     cout <<"\n";
 }
